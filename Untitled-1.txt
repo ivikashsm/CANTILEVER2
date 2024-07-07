@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 544,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Oliver Haslam",
+      "title": "32 Best Remaining Apple July 4th Deals: Save on AirPods, Apple Watch, MacBooks and More",
+      "description": "Here are the hottest Fourth of July deals on Apple products that are still available across Amazon, Best Buy and elsewhere.",
+      "url": "https://www.cnet.com/deals/apple-july-4th-deals-2024-07-05/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/adc47a1f7daf76132323ac1e6ce799af1b5c1eaa/hub/2024/05/23/5b0b434c-60c6-4176-a8aa-82e12fe7bf4c/apple-memorial-day-deals.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-07-05T09:52:00Z",
+      "content": "If you're looking for Fourth of July sales on Apple products, look no further. Because, even though the holiday has passed, you have plenty of options right now across various models of Apple Watch, … [+2122 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Florence Ion",
+      "title": "What to Expect From Samsung’s Galaxy Unpacked Event",
+      "description": "Will there be folding smartphones? Wearables? Smart rings? Everything in between? what-to-expect-from-samsungs-galaxy-unpacked-event",
+      "url": "https://gizmodo.com/what-to-expect-from-samsungs-galaxy-unpacked-event-2000376570",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/07/galaxyunpacked.jpg",
+      "publishedAt": "2024-07-05T11:00:41Z",
+      "content": "Samsung Galaxy Unpacked will officially kick off New Phone Season on July 10 in Paris, with Google and Apple following suit shortly after that. We’re expecting to see the brand’s newest foldables and… [+2950 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hipertextual"
+      },
+      "author": "Rubén Chicharro",
+      "title": "Apple pronto declarará obsoletos tres de sus dispositivos más populares e icónicos",
+      "description": "Cuando ya han pasado varios años desde el lanzamiento de un producto de Apple, la compañía de Cupertino tiende a categorizarlos de dos formas para hacer ver a sus usuarios que el dispositivo es nuevo, ya no se distribuye, pronto dejará de recibir soporte técn…",
+      "url": "http://hipertextual.com/2024/07/apple-pronto-declarara-obsoletos-tres-de-sus-dispositivos-mas-populares-e-iconicos",
+      "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2018/02/HOmePod.jpg",
+      "publishedAt": "2024-07-05T07:22:13Z",
+      "content": "Cuando ya han pasado varios años desde el lanzamiento de un producto de Apple, la compañía de Cupertino tiende a categorizarlos de dos formas para hacer ver a sus usuarios que el dispositivo es nuevo… [+2559 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Ben Schwan",
+      "title": "Sicherheitsexperte Schneier lobt Datenschutz bei Apple Intelligence",
+      "description": "Der langjährige IT-Security-Forscher Bruce Schneier hat sich Apples KI-Ansatz angesehen. Er hält ihn für datenschutzfreundlicher als die der Konkurrenz.",
+      "url": "https://www.heise.de/news/Sicherheitsexperte-Schneier-lobt-Datenschutz-bei-Apple-Intelligence-9789869.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/2/7/8/5/9/apple_intel-9e73ab1b8539e1a5-9e73ab1b8539e1a5.png",
+      "publishedAt": "2024-07-05T08:47:00Z",
+      "content": "Wenn ab Herbst erstmals Funktionen von Apple Intelligence für erste Nutzer freigegeben werden, dürften sich viele User die Frage stellen, wie es mit dem Datenschutz bestellt ist. Zwar hat Apple hier … [+2210 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Ben Schwan",
+      "title": "iOS 18: Wie Apple den Homescreen umbaut",
+      "description": "Mit Apples nächstem iPhone-Betriebssystem ändert sich in Sachen Homescreen-Gestaltung eine ganze Menge. Ein Überblick.",
+      "url": "https://www.heise.de/news/iOS-18-Wie-Apple-den-Homescreen-umbaut-9790167.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/2/8/0/1/7/ios18_homescreen-627b69c3bbded95c.png",
+      "publishedAt": "2024-07-05T10:04:00Z",
+      "content": "Schon mit iOS 14 hatte Apple die Möglichkeit geschaffen, Widgets auf dem Homescreen zu verteilen. Mit iOS 17 wurden diese erstmals interaktiv. nun, mit iOS 18, plant Apple eine ganze Reihe weiterer N… [+1965 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hipertextual"
+      },
+      "author": "Quelian Sanz",
+      "title": "Google Maps trae al iPhone la función más esperada por los conductores",
+      "description": "Si utilizas Google Maps en el iPhone hoy tenemos muy buenas noticias para ti. La app se está actualizando para integrar una de las funciones más útiles y solicitadas por los conductores de todo el mundo. No es nueva y, de hecho, la versión para los dispositiv…",
+      "url": "http://hipertextual.com/2024/07/google-maps-trae-al-iphone-la-funcion-mas-esperada-por-los-conductores",
+      "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/07/maps-scaled.jpg",
+      "publishedAt": "2024-07-05T07:11:29Z",
+      "content": "Si utilizas Google Maps en el iPhone hoy tenemos muy buenas noticias para ti. La app se está actualizando para integrar una de las funciones más útiles y solicitadas por los conductores de todo el mu… [+2799 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Presse-citron"
+      },
+      "author": "Romain Vitt",
+      "title": "Google Maps sur iPhone reçoit une grosse nouveauté qui va vous éviter des amendes pour excès de vitesse",
+      "description": "Google Maps > Apple Plans ?",
+      "url": "https://www.presse-citron.net/google-maps-sur-iphone-recoit-une-grosse-nouveaute-qui-va-vous-eviter-des-amendes-pour-exces-de-vitesse/",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2024/07/google-maps-iphone-vitesse.jpg",
+      "publishedAt": "2024-07-05T07:24:26Z",
+      "content": "Les utilisateurs d’iPhone vont bientôt pouvoir profiter d’une fonctionnalité très attendue sur Google Maps : l’affichage d’un compteur de vitesse directement dans l’application. Cette nouveauté, déjà… [+3324 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Aashna Gheewalla",
+      "title": "Top 60 July 4th Deals Under $25 Still Available: Incredible Savings on Outdoor Gear, Tech, Toys and More",
+      "description": "Shop the best lingering July 4th discounts on affordable products from Anker, Apple, Logitech, Hasbro and more.",
+      "url": "https://www.cnet.com/deals/july-4th-deals-under-25-2024-07-05/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/abb1bfcae0aa26c9890f2439dc597cd888a2e652/hub/2024/06/28/d009d152-a215-49c3-b692-85a0e76649c3/july4-under-25.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-07-05T08:37:05Z",
+      "content": "If you didn't get a chance to shop the best Fourth of July sales yesterday, don't despair. There's still time to shop deals from top retailers like Amazon, Best Buy, Walmart and more. We've compiled … [+3056 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Golem.de"
+      },
+      "author": "Marc Stöckel",
+      "title": "Russland setzt sich durch: Apple entfernt VPN-Apps aus russischem App Store",
+      "description": "Betroffen sind mehrere verbreitete VPN-Dienste wie ProtonVPN, Red Shield VPN, NordVPN und Le VPN. Deren Apps seien in Russland illegal, argumentiert Apple. (Russland, Apple)",
+      "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Frussland-setzt-sich-durch-apple-entfernt-vpn-apps-aus-russischem-app-store-2407-186742.html&referer=https%3A%2F%2Ft.co%2F17615f5a44",
+      "urlToImage": null,
+      "publishedAt": "2024-07-05T06:51:07Z",
+      "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slate Magazine"
+      },
+      "author": "Lizzie O’Leary",
+      "title": "Elon Says Have More Babies",
+      "description": "Is the “pronatalist movement” just white supremacism in a wooly onesie?",
+      "url": "https://slate.com/podcasts/what-next-tbd/2024/07/elon-wants-more-babies",
+      "urlToImage": "https://compote.slate.com/images/a74b4148-354c-4574-bf1f-f1570278b149.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+      "publishedAt": "2024-07-05T09:00:00Z",
+      "content": "The worlds population has never been bigger, and its still growing. but theres a movement of pronatalists who see the slowing birth rate in wealthy, educated populations as a doomsday scenario in the… [+477 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slate Magazine"
+      },
+      "author": "Jason Johnson",
+      "title": "Elie Mystal on the Supreme Court: “We Are Screwed”",
+      "description": "Legal analyst Elie Mystal explains why this Supreme Court session was a disaster, and what the president should –but likely won’t– do to fix it.",
+      "url": "https://slate.com/podcasts/a-word/2024/07/the-supreme-court-thinks-joe-biden-is-a-punk",
+      "urlToImage": "https://compote.slate.com/images/93799203-0036-4afb-97a8-aea23a3442b7.jpeg?width=1560",
+      "publishedAt": "2024-07-05T09:00:10Z",
+      "content": "This years Supreme Court session loosened laws on official bribery, overturned decades of precedent on regulation, and granted immunity to the president for official actions. On todays episode of A W… [+568 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Ben Schwan",
+      "title": "Game-Porting-Toolkit erlaubt Spieleportierung von macOS nach iOS",
+      "description": "Mit Apples Portierwerkzeug kann man Windows-Titel vergleichsweise leicht auf den Mac holen. Nun kommt ein weiterer Weg hinzu: vom Mac zum Mobilgerät.",
+      "url": "https://www.heise.de/news/Game-Porting-Toolkit-erlaubt-Spieleportierung-von-macOS-nach-iOS-9789956.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/2/7/9/0/5/Screenshot_2024-07-05_at_10.03.35-2-2-5ca990fa82f88691.png",
+      "publishedAt": "2024-07-05T08:11:00Z",
+      "content": "In macOS 15 alias Sequoia hat Apple auch am Game Porting Toolkit (GPTK) geschraubt: Version 2 der Portierungssuite bekommt eine Reihe neuer Funktionen. Wie einem Seminar von der WWDC 2024 zu entnehme… [+1919 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (William Gallagher)",
+      "title": "Russia forces Apple to remove VPN apps from the App Store",
+      "description": "Apple has caved to pressure from Russian authorities and removed a number of the best iPhone VPN apps from the App Store in the country.Moscow at night (Credit: Evgenit/Pixabay)Apple's App Store team has been notifying VPN developers that their apps are being…",
+      "url": "https://appleinsider.com/articles/24/07/05/russia-forces-apple-to-remove-vpn-apps-from-the-app-store",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/44477-86379-Moscow-xl.jpg",
+      "publishedAt": "2024-07-05T10:09:03Z",
+      "content": "Moscow at night (Credit: Evgenit/Pixabay)\r\nApple has caved to pressure from Russian authorities and removed a number of the best iPhone VPN apps from the App Store in the country.\r\nApple's App Store … [+1228 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Journal du geek"
+      },
+      "author": "tristan carballeda",
+      "title": "On connait déjà le nom des prochains iPad vendus par Apple ?",
+      "description": "La liste de tous les iPad vendus par Apple en 2025 vient elle de fuiter sur les réseaux sociaux comme l'assure Nicolas Alvarez.",
+      "url": "https://www.journaldugeek.com/2024/07/05/on-connait-deja-le-nom-des-prochains-ipad-vendus-par-apple/",
+      "urlToImage": "https://www.journaldugeek.com/app/uploads/2024/05/ipad-pro-apple-pencil-pro.jpg",
+      "publishedAt": "2024-07-05T11:02:01Z",
+      "content": "Apple est une entreprise qui adore cultiver le secret. La marque ne parle que très peu à la presse, encore moins pour évoquer les projets en cours de développement. Il aura donc été normal de ne rien… [+2632 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Authority"
+      },
+      "author": "Kaitlyn Cimino",
+      "title": "Apple Watch Ultra 3 wishlist: All the features I want to see",
+      "description": "A new generation Apple Watch Ultra 3 is likely headed to shelves this fall. Find out everything we know and what we want to see.",
+      "url": "https://www.androidauthority.com/apple-watch-ultra-3-3456461/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2022/10/Apple-Watch-Ultra-Logo-2-scaled.jpg",
+      "publishedAt": "2024-07-05T05:30:54Z",
+      "content": "Apples premium smartwatch lineup made a splash in 2022 when it introduced the companys loyal fanbase to a larger, more durable option. Since then, the original Apple Watch Ultra and updated Ultra 2 h… [+6017 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Caschys Blog"
+      },
+      "author": "Mike Leitner",
+      "title": "Apple veröffentlicht Demo seines 4M-KI-Modells",
+      "description": "Apple hat in Zusammenarbeit mit der Eidgenössischen Technischen Hochschule Lausanne (EPFL) eine öffentliche Demo seines 4M-KI-Modells auf Hugging Face veröffentlicht. Das ist ungewöhnlich für das Unternehmen, das sonst eher zurückhaltend mit solchen Sachen um…",
+      "url": "https://stadt-bremerhaven.de/apple-veroffentlicht-demo-seines-4m-ki-modells/",
+      "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2024/06/IMAGE-2024-06-10-200803.jpg",
+      "publishedAt": "2024-07-05T10:30:13Z",
+      "content": "Apple hat in Zusammenarbeit mit der Eidgenössischen Technischen Hochschule Lausanne (EPFL) eine öffentliche Demo seines 4M-KI-Modells auf Hugging Face veröffentlicht. Das ist ungewöhnlich für das Unt… [+1146 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Caschys Blog"
+      },
+      "author": "Olli",
+      "title": "Apple: Code bestätigt Gerüchte zum Smart Display",
+      "description": "Apple wird schon lange nachgesagt, dass das Unternehmen an einer Kombination aus HomePod und Bildschirm arbeitet, um das smarte Zuhause besser unterstützen zu können. Smart Displays gibt es mittlerweile von etlichen Anbietern, nur Apple hielt sich bisher vorn…",
+      "url": "https://stadt-bremerhaven.de/apple-code-bestaetigt-geruechte-zum-smart-display/",
+      "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2021/12/Apple-Logo-Shop.jpg",
+      "publishedAt": "2024-07-05T06:00:57Z",
+      "content": "Apple wird schon lange nachgesagt, dass das Unternehmen an einer Kombination aus HomePod und Bildschirm arbeitet, um das smarte Zuhause besser unterstützen zu können. Smart Displays gibt es mittlerwe… [+1290 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Matt Poskitt",
+      "title": "July 4th Laptop Sales You Can Still Get Today: Deep Discounts on Top Brands Like Apple, Lenovo, HP and Dell",
+      "description": "These incredible July 4th laptop sales are still available and can save you hundreds of bucks.",
+      "url": "https://www.cnet.com/deals/july-4th-laptop-deals-2024-07-05/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/fc996571648630bf56c37b3f4b51f0f34ff078c9/hub/2024/06/25/5e8552b7-0219-4edd-a4c9-f1b482e614f6/laptop-fourth-of-july-2024-commerce-image.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-07-05T09:43:45Z",
+      "content": "HP/Apple/CNET\r\nIf you're a student on a budget, a professional needing a new laptop or a parent looking for a machine to casually surf the internet, although Independence Day has passed, these remain… [+4502 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applesfera.com"
+      },
+      "author": "Guille Lomener",
+      "title": "Apple ya ha encargado a Taiwán el chip M5 de los futuros Mac y iPhone. Por el camino se ha filtrado toda una flota de nuevos iPad",
+      "description": "Se cumplen dos meses del lanzamiento del iPad Pro con chip M4, el cual fue toda una sorpresa por el propio dispositivo en sí y también por una presentación del chip M4 tan solo seis meses después de su predecesor, el chip M3. Adicionalmente, en la misma Keyno…",
+      "url": "https://www.applesfera.com/rumores/apple-ha-encargado-a-taiwan-chip-m5-futuros-mac-iphone-camino-se-ha-filtrado-toda-flota-nuevos-ipad",
+      "urlToImage": "https://i.blogs.es/bbe607/ipad-m5/840_560.jpeg",
+      "publishedAt": "2024-07-05T09:46:30Z",
+      "content": "Se cumplen dos meses del lanzamiento del iPad Pro con chip M4, el cual fue toda una sorpresa por el propio dispositivo en sí y también por una presentación del chip M4 tan solo seis meses después de … [+5465 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MakeUseOf"
+      },
+      "author": "Mahnoor Faisal",
+      "title": "Which MacBook Offers the Best Battery Life?",
+      "description": "If battery life is your top priority, look no further than these MacBook models.",
+      "url": "https://www.makeuseof.com/which-macbook-best-battery-life/",
+      "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/a-macbook-pro-and-macbook-air-screen-split-in-half-indicating-a-comparison-between-the-two-models.jpeg",
+      "publishedAt": "2024-07-05T10:30:11Z",
+      "content": "Carrying a charger everywhere you go just in case your Mac runs out of juice isn't exactly convenient. That's why choosing a model with excellent battery life is crucial. We'll help you decide which … [+2193 chars]"
+    }
+  ]
+}
